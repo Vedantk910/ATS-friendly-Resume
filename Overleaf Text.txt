@@ -1,0 +1,134 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper, left=0.40in, right=0.40in, top=0.25in, bottom=0.15in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\hyphenation{Some-long-word}
+\usepackage{multicol} % For multi-column layout
+\usepackage{enumitem} % For customizing lists
+\usepackage{titlesec} % For custom section titles
+
+\usepackage{resume}
+\usepackage{hyperref} % For 
+\usepackage{fontawesome5}
+
+\begin{document}
+\begin{center}
+    \begin{tabular}{@{}l@{\hspace{ 5.4 cm}}r@{}}
+        \textbf{\Huge Vedant Konde} & \textbf{\Large Data Analyst \textbar \space Data Visualization  } \\
+    \end{tabular}
+    
+\end{center}
+\begin{center}
+    
+    \textscale{1.05}{
+        \begin{tabular}{cccc}
+            \faEnvelope\hspace{0.5ex} \href{mailto:vedantkonde910@gmail.com}{vedantkonde910@gmail.com}\hspace{4.0 ex} &
+            \faPhone\hspace{0.5ex} \href{tel:+918830494337}{+91-8830494337}\hspace{4.0ex} &
+            \faLinkedin\hspace{0.5ex} \href{https://www.linkedin.com/in/vedant-konde-data-analyst}{linkedin.in/vedant-konde}\hspace{4.0 ex} &
+            \faGithub\hspace{0.5ex} \href{https://github.com/Vedantk910}{github.com/Vedantk910}
+        \end{tabular}
+    }
+\end{center}
+\spacedhrule{-1.0ex}{-0.5ex}
+
+\roottitle{SUMMARY}
+
+\begin{}
+    \text {Results-driven technology research analyst with a strong background in developing and implementing data-driven strategies to improve operational efficiency and reduce costs. Proven expertise in quantitative analysis, machine learning, and software development. Adept at leading cross-functional teams, presenting analytical findings to stakeholders, and driving business growth.}
+\end{center}
+
+\spacedhrule{0.8ex}{0.0ex}
+
+\roottitle{SKILLS \& OTHERS}
+\begin{circlist}	
+	\item {\textbf {Mathematics:}} Econometrics, Probability Theory, Optimization, Stochastic Calculus, Monte Carlo Simulation
+	\item {\textbf{Machine Learning:}} Generalized Linear Models, Dimensionality Reduction, Neural Networks, Ensemble Methods
+    \item {\textbf{Finance:}} Portfolio Management, Quantitative Investing, Backtesting, Volatility Modeling
+    \item {\textbf{Computer:}} Excellent in Python, SQL, C++, Java. Proficient in R, HTML, CSS, JavaScript, React, NodeJs, MongoDB, Django, SQLite
+\end{circlist}
+
+
+\spacedhrule{0.8ex}{0.0ex}
+
+\roottitle{WORK EXPERIENCE}
+
+\noindent
+\textbf{\href{https://www.smartedgesolutions.com/}{Associate Technology Research Analyst (Remote)}} \hfill \textit{Jul 2024 -- Present} \\[0.5ex]
+\textbf{Smartedge Solutions IT Services Pvt. Ltd. }\textit{Hyderabad, Telangana} \\
+\vspace{-2.4ex}
+\begin{circlist}	
+	\item Conducted comprehensive analyses of business processes, identifying 20+ key improvement areas leading to a 30\% enhancement in operational efficiency.
+	\item Developed and implemented data-driven strategies resulting in a 25\% reduction in operational costs.
+	\item Spearheaded the design and rollout of a new business intelligence dashboard, improving decision-making speed by 40\%.
+	\item Collaborated with cross-functional teams to analyze project requirements, streamlining processes and reducing project timelines by 15\%.
+	\item Prepared and presented detailed reports to senior management, contributing to a 15\% growth in business revenue.
+\end{circlist}
+}
+
+\spacedhrule{0.8ex}{0.0ex}
+
+\roottitle{PROJECTS}
+
+\headedsection
+{\href{https://github.com/Vedantk910/FInalShopEnd}{EGROCERY WEB \& MOBILE APPLICATION}}
+
+{Description: Developed a comprehensive e-commerce platform connecting local grocery stores with buyers. Features included inventory management and order tracking.}
+
+\vspace{} \begin{circlist}
+    \item Designed and developed front-end and back-end components to support seamless user experiences.
+    \item Technologies Used: HTML, CSS, React, NodeJs, MongoDB
+    \item \textbf{Frontend Repository}: \underline{\url{https://github.com/Vedantk910/FInalShopEnd}}
+    \item \textbf{Backend Repository}: \underline{\url{https://github.com/Vedantk910/shopify-backend}}
+\end{circlist}
+\vspace{1.0ex}
+
+\spacedhrule{0.8ex}{0.0ex}
+
+\roottitle{EDUCATION}
+
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{Bachelor of Engineering in Computer Science} & \textit{Aug 2020 -- Jun 2024} \\
+    \textit {AISSMS College of Engineering, Pune, India} & \textbf{CGPA: 8.5} \\
+\end{tabular*}
+
+\vspace{1ex} % Adjust this space as needed
+
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{HSC 12th - Science } & \textit{Jul 2018 -- May 2020} \\
+    \textit {ST. Paul Jr College, Nagpur, Maharashtra} & \textbf{Percentage: 76.6} \\
+\end{tabular*}
+
+\vspace{1ex} % Adjust this space as needed
+
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+    \textbf{CBSE 10th } & \textit{Jul 2017 -- May 2018} \\
+    Sanskar Vidya Sagar, Nagpur, Maharashtra & \textbf{Percentage: 91.00} \\
+\end{tabular*}
+\spacedhrule{0.8ex}{0.0ex}
+
+\roottitle{CERTIFICATIONS}
+\vspace{-2.0ex}
+\begin{multicols}{2}
+\begin{circlist}
+    \item \textbf{Certifications:} Certified Business Analysis Professional (CBAP), Certified Analytics Professional (CAP), SQL for Data Science, Data Visualization with Tableau
+    \item \textbf{Interests:} Strategy Games, Music, Adventure Sports
+\end{circlist}
+\end{multicols}
+\spacedhrule{0.8ex}{0.0ex}
+
+\roottitle{ACHIEVEMENTS \& RESEARCH}
+\begin{circlist}	
+	\item {\textbf {Mathematics:}} Econometrics, Probability Theory, Optimization, Stochastic Calculus, Monte Carlo Simulation
+	\item {\textbf{Machine Learning:}} Generalized Linear Models, Dimensionality Reduction, Neural Networks, Ensemble Methods
+    \item {\textbf{Finance:}} Portfolio Management, Quantitative Investing, Backtesting, Volatility Modeling
+    \item {\textbf{Computer:}} Excellent in Python, SQL, C++, Java. Proficient in R, HTML, CSS, JavaScript, React, NodeJs, MongoDB, Django, SQLite
+    \item {\textbf{Certifications:}} Certified Business Analysis Professional (CBAP), Certified Analytics Professional (CAP), SQL for Data Science, Data Visualization with Tableau
+    \item {\textbf{Interests:}} Strategy Games, Music, Adventure Sports
+\end{circlist}
+
+
+
+\end{document}
