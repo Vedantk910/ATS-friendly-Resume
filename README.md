@@ -1,7 +1,6 @@
 ATS-Friendly LaTeX Resume Template
 Welcome to the ATS-Friendly LaTeX Resume Template repository! 🎉 This repository contains a professionally designed LaTeX template for creating resumes that are optimized for Applicant Tracking Systems (ATS). Whether you're a job seeker looking to make a strong impression or a professional aiming to update your resume, this template is designed to help you stand out.
 
-Anyone with this link can edit this projecthttps://www.overleaf.com/8647471323syzppjhxpxfj#35ad54
 
 Anyone with this link can view this projecthttps://www.overleaf.com/read/tznqzzfbhtrg#53a845
 
